@@ -18,6 +18,16 @@
 </dir>
 
 <dir>
+<title>Beast list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
+</dir>
+
+<dir>
+  <title>TV Game Shows</title>
+  <tmdb>list/51238</tmdb>
+</dir>
+
+<dir>
     <title>Most Popular TV Shows</title>
     <imdburl>charttv/tvmeter</imdburl>
 	<thumbnail></thumbnail>
