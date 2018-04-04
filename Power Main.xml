@@ -1,0 +1,36 @@
+ <dir>
+  <title>Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/fire/master/lost%20movies.xml</link>
+</dir>
+
+ 
+ <dir>
+  <title>TV</title>
+  <link>https://raw.githubusercontent.com/lost50/fire/master/lost%20tv.xml</link>
+</dir>
+
+
+<xml>
+  <dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/movies247.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>247 TV</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/247-tv%20(1).xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.fire?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
