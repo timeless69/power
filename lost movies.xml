@@ -1,0 +1,51 @@
+<dir>
+<title>EOD new</title>
+<tmdb>list/50592</tmdb>
+</dir>
+
+<dir>
+  <title>EOD New 2</title>
+  <tmdb>list/51213</tmdb>
+</dir>
+
+<dir>
+  <title>New Release</title>
+  <tmdb>list/50077</tmdb>
+</dir>
+
+<dir>
+  <title>sword Movies</title>
+  <tmdb>list/62306</tmdb>
+</dir>
+
+<dir>
+  <title>Vampire Movies</title>
+  <tmdb>list/62254</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Upcoming</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
+    
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+ 
+<dir>
+<title>IMDB DC/Marval</title>
+<imdburl>list/http://www.imdb.com/list/ls021993452/</imdburl>
+</dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+</dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 

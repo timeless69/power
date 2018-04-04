@@ -1,0 +1,43 @@
+<dir>
+  <title>Netflix Shows</title>
+  <tmdb>network/shows/213</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+<dir>
+    <title>Airing Today</title>
+    <tmdb>tv/today</tmdb>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+<dir>
+    <title>T TV Shows</title>
+    <tmdb>list/46939</tmdb>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>Most Popular TV Shows</title>
+    <imdburl>charttv/tvmeter</imdburl>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>TV Box Sets</title>
+    <tmdb>list/39675?limit=40&page=1</tmdb>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+ 
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+ <dir>
+<title>IMDB NEW TV Shows</title>
+<imdburl>tvshows/new</imdburl>
+</dir>
+    
