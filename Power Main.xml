@@ -9,7 +9,12 @@
   <link>https://raw.githubusercontent.com/timeless69/power/master/lost%20tv.xml</link>
 </dir>
 
-
+   
+ <dir>
+    <title>Live</title>
+    <link>https://raw.githubusercontent.com/timeless69/power/master/power%20live.xml</link>
+  </dir>
+  
 <xml>
   <dir>
     <title>Movies 247</title>
