@@ -26,8 +26,13 @@
 </dir>
  
 <dir>
-  <title>sword Movies</title>
+  <title>Sword Movies</title>
   <tmdb>list/62306</tmdb>
+</dir>
+ 
+<dir>
+  <title>Fighting Movies</title>
+  <tmdb>list/https://www.themoviedb.org/list/62334</tmdb>
 </dir>
 
 <dir>
