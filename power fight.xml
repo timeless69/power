@@ -1,0 +1,30 @@
+<dir>
+        <title>Sword Movies</title>
+        <tmdb>list/62306</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Fighting Movies</title>
+        <tmdb>list/62334</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Fighting 2 Movies</title>
+        <tmdb>list/63115</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Boxing Movies</title>
+        <tmdb>list/63100</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+ <dir>
+    <title>kng fu dir</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20kung%20fu.xml</link>
+  </dir>
