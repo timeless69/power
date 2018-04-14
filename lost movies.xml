@@ -99,6 +99,24 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
+<dir>
+        <title>Sniper Movies</title>
+        <tmdb>list/63189</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Space Movies</title>
+        <tmdb>list/63176</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Zombie Movies</title>
+        <tmdb>list/63173</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
 
 <dir>
 <title>Sports Movies</title>
