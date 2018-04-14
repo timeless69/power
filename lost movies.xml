@@ -36,15 +36,91 @@
 </dir>
 
 <dir>
-  <title>Vampire Movies</title>
-  <tmdb>list/62254</tmdb>
+        <title>Racing Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63095</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Robot Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63092</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Drug Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/62974</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+    <title>Horror Movies</title>
+     <tmdb>list/https://www.themoviedb.org/list/63093</tmdb>
+     <thumbnail></thumbnail>
+     <fanart></fanart>
+</dir>
+<dir>
+        <title>dc</title>
+        <tmdb>list/https://www.themoviedb.org/list/52485</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Funny Movies</title>
+        <tmdb>list/63097</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>wolf movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63110</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Vampire Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63112</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Boxing Movies</title>
+        <tmdb>list/63100</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Fighting Movies</title>
+        <tmdb>list/63115</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+<title>Sports Movies</title>
+<tmdb>list/51638</tmdb>
 </dir>
 
  <dir>
-<title>Heist Movies</title>
-<tmdb>list/62620</tmdb>
+<title>Her Picks</title>
+<tmdb>list/51606</tmdb>
 </dir>
 
+<dir>
+  <title>Chick Flicks</title>
+  <tmdb>list/47936</tmdb>
+</dir>
+ <dir>
+        <title>Heist Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+ 
  <dir>
 <title>Gangsta</title>
 <tmdb>list/51623</tmdb>
