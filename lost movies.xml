@@ -25,14 +25,24 @@
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
 </dir>
  
-<dir>
-  <title>Sword Movies</title>
-  <tmdb>list/62306</tmdb>
+ <dir>
+  <title>Dc/Marval Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/Dc%20%26%20Marval.xml</link>
 </dir>
  
-<dir>
+ <dir>
+  <title>Horror Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/horro.xml</link>
+</dir>
+ 
+ <dir>
   <title>Fighting Movies</title>
-  <tmdb>list/https://www.themoviedb.org/list/62334</tmdb>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/power%20fight.xml</link>
+</dir>
+ 
+ <dir>
+  <title>Her place</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/her%20place.xml</link>
 </dir>
 
 <dir>
@@ -50,19 +60,6 @@
 <dir>
         <title>Drug Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/62974</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
-
-<dir>
-    <title>Horror Movies</title>
-     <tmdb>list/https://www.themoviedb.org/list/63093</tmdb>
-     <thumbnail></thumbnail>
-     <fanart></fanart>
-</dir>
-<dir>
-        <title>dc</title>
-        <tmdb>list/https://www.themoviedb.org/list/52485</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
@@ -86,19 +83,13 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
+<dir>
+        <title>Zombie Movies</title>
+        <tmdb>list/63173</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
 
-<dir>
-        <title>Boxing Movies</title>
-        <tmdb>list/63100</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
-<dir>
-        <title>Fighting Movies</title>
-        <tmdb>list/63115</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
 <dir>
         <title>Sniper Movies</title>
         <tmdb>list/63189</tmdb>
@@ -111,32 +102,18 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
-<dir>
-        <title>Zombie Movies</title>
-        <tmdb>list/63173</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
 
 <dir>
-<title>Sports Movies</title>
-<tmdb>list/51638</tmdb>
+  <title>Sports Movies</title>
+  <tmdb>list/51638</tmdb>
 </dir>
+
 
  <dir>
-<title>Her Picks</title>
-<tmdb>list/51606</tmdb>
-</dir>
-
-<dir>
-  <title>Chick Flicks</title>
-  <tmdb>list/47936</tmdb>
-</dir>
- <dir>
-        <title>Heist Movies</title>
-        <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+      <title>Heist Movies</title>
+      <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
 </dir>
  
  <dir>
@@ -154,8 +131,4 @@
 <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
 </dir>
 
-   <dir>
-    <title>kng fu dir</title>
-    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20kung%20fu.xml</link>
-  </dir>
   
