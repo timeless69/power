@@ -28,112 +28,121 @@
  <dir>
   <title>Dc/Marval Movies</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/Dc%20%26%20Marval.xml</link>
-</dir>
+  <thumbnail>http://wfiles.brothersoft.com/3/3d-robot_193495-1600x900.jpg</thumbnail>
+ </dir>
  
  <dir>
   <title>Horror Movies</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/horro.xml</link>
+  <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5gP-ImbvaAhVF0YMKHbkyAhMQjRx6BAgAEAU&url=https%3A%2F%2Fwww.sunhome.ru%2Fwallpapers%2F17932&psig=AOvVaw32W5_IxCb8LDt2Hzxvo8ph&ust=1523844065406523</thumbnail>
 </dir>
  
  <dir>
   <title>Fighting Movies</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/power%20fight.xml</link>
-</dir>
+  <thumbnail>https://www.walldevil.com/wallpapers/a28/wallpapers-animated-explore-wallpaper-windows.jpg</thumbnail>
+ </dir>
  
  <dir>
   <title>Her place</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/her%20place.xml</link>
-</dir>
+<thumbnail>http://st-gdefon.gallery.world/wallpapers_original/518721_gallery.world.jpg?9b30f88865a6ee068aa988b568d8492f</thumbnail>
+  </dir>
  
  <dir>
   <title>Hit List</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/Hit%20List.xml</link>
-</dir>
+<thumbnail>http://cdn.wonderfulengineering.com/wp-content/uploads/2013/11/robot-wallpaper-82.jpg</thumbnail>
+  </dir>
 
 <dir>
         <title>Racing Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/63095</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjQ2LemmbvaAhWs7IMKHZ4jDtEQjRx6BAgAEAU&url=https%3A%2F%2Fbest-wallpaper.net%2F3D-design-bike-robot-racer_1920x1080.html&psig=AOvVaw32W5_IxCb8LDt2Hzxvo8ph&ust=1523844065406523</thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
         <title>Robot Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/63092</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>http://sellaholics.com/wp-content/uploads/2015/04/White-3D-Robot-HD-Wallpaper.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
         <title>Drug Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/62974</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://i.pinimg.com/originals/f3/b4/ae/f3b4aebbe016d2db43276b6cc911a5f9.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 
 <dir>
         <title>Funny Movies</title>
         <tmdb>list/63097</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.highreshdwallpapers.com/wp-content/uploads/2012/03/Strange-Beings-Window-Wallpaper.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 
 <dir>
         <title>wolf movies</title>
         <tmdb>list/https://www.themoviedb.org/list/63110</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://i.pinimg.com/originals/7b/84/f4/7b84f45880a7c5950f7875f5b8e5e5b8.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
         <title>Vampire Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/63112</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>http://coolwallpaperz.info/user-content/uploads/wall/o/23/robot-animal-navigation-home-d-88667.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
         <title>Zombie Movies</title>
         <tmdb>list/63173</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Robot-Concepts-Background-PIC-WPD001109.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 
 <dir>
         <title>Sniper Movies</title>
         <tmdb>list/63189</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://wallpaperstock.net/3d-robot%2C-fighter_wallpapers_55288_1920x1080.jpg</thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
         <title>Space Movies</title>
         <tmdb>list/63176</tmdb>
-        <thumbnail></thumbnail>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF7tmwqEEXL7RFyfNioc_WeQXaqdInvio_RWljm7cjquUJfIi</thumbnail>
         <fanart></fanart>
 </dir>
 
 <dir>
   <title>Sports Movies</title>
   <tmdb>list/51638</tmdb>
-</dir>
+<thumbnail>http://s3images.coroflot.com/user_files/individual_files/156233_OPB7WvBgEk8wWwbaZ2qZscsGc.jpg</thumbnail>
+  </dir>
 
 
  <dir>
       <title>Heist Movies</title>
       <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
-      <thumbnail></thumbnail>
+      <thumbnail>http://data.1freewallpapers.com/download/robot-warrior.jpg</thumbnail>
       <fanart></fanart>
 </dir>
  
  <dir>
 <title>Gangsta</title>
 <tmdb>list/51623</tmdb>
+<thumbnail>https://images3.alphacoders.com/268/268285.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>mythology</title>
 <tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+<thumbnail>https://www.walldevil.com/wallpapers/a90/robot-woman.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>westerns</title>
 <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
+<thumbnail>https://www.wallpaperflare.com/static/538/334/521/terminator-movies-digital-art-cyborg-wallpaper-thumb.jpg</thumbnail>
 </dir>
 
   
