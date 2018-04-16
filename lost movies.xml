@@ -38,6 +38,12 @@
 </dir>
  
  <dir>
+  <title>Sci-Fi Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/power%20scifi.xml</link>
+  <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5gP-ImbvaAhVF0YMKHbkyAhMQjRx6BAgAEAU&url=https%3A%2F%2Fwww.sunhome.ru%2Fwallpapers%2F17932&psig=AOvVaw32W5_IxCb8LDt2Hzxvo8ph&ust=1523844065406523</thumbnail>
+</dir>
+ 
+ <dir>
   <title>Fighting Movies</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/power%20fight.xml</link>
   <thumbnail>https://www.walldevil.com/wallpapers/a28/wallpapers-animated-explore-wallpaper-windows.jpg</thumbnail>
@@ -55,13 +61,8 @@
 <thumbnail>http://cdn.wonderfulengineering.com/wp-content/uploads/2013/11/robot-wallpaper-82.jpg</thumbnail>
   </dir>
 <dir>
-<title>EOD Sports Movies</title>
+<title>Sports Movies</title>
 <tmdb>list/51638</tmdb>
-</dir>
-
-<dir>
-    <title>Women's Sports</title>
-    <link>https://raw.githubusercontent.com/lost50/crow/master/women%20sports.xml</link>
 </dir>
 
 <dir>
@@ -115,12 +116,6 @@
         <thumbnail>https://wallpaperstock.net/3d-robot%2C-fighter_wallpapers_55288_1920x1080.jpg</thumbnail>
         <fanart></fanart>
 </dir>
-<dir>
-        <title>Space Movies</title>
-        <tmdb>list/63176</tmdb>
-        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF7tmwqEEXL7RFyfNioc_WeQXaqdInvio_RWljm7cjquUJfIi</thumbnail>
-        <fanart></fanart>
-</dir>
 
 <dir>
   <title>Sports Movies</title>
@@ -129,6 +124,13 @@
   </dir>
 
 
+ <dir>
+      <title>Suspense Movies</title>
+      <tmdb>list/https://www.themoviedb.org/list/63312</tmdb>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+</dir>
+ 
  <dir>
       <title>Heist Movies</title>
       <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>

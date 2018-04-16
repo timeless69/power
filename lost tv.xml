@@ -4,14 +4,19 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
 <dir>
-    <title>Airing Today</title>
-    <tmdb>tv/today</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
 </dir>
+
+ <dir>
+<title>IMDB NEW TV Shows</title>
+<imdburl>tvshows/new</imdburl>
+</dir>
+    
 <dir>
-    <title>T TV Shows</title>
+    <title> TV Shows</title>
     <tmdb>list/46939</tmdb>
 	<thumbnail></thumbnail>
     <fanart></fanart>
@@ -23,8 +28,33 @@
 </dir>
 
 <dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
   <title>TV Game Shows</title>
   <tmdb>list/51238</tmdb>
+</dir>
+
+<dir>
+  <title>Action & Adventure</title>
+  <tmdb>genre/shows/10759</tmdb>
+</dir>
+
+<dir>
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+</dir>
+
+<dir>
+  <title>Soap</title>
+  <tmdb>genre/shows/10766</tmdb>
+</dir>
+
+<dir>
+  <title>War & Politics</title>
+  <tmdb>genre/shows/10768</tmdb>
 </dir>
 
 <dir>
@@ -33,21 +63,3 @@
 	<thumbnail></thumbnail>
     <fanart></fanart>
 </dir>
-
-<dir>
-    <title>TV Box Sets</title>
-    <tmdb>list/39675?limit=40&page=1</tmdb>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
- 
-<dir>
-<title>Networks</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
-</dir>
-
- <dir>
-<title>IMDB NEW TV Shows</title>
-<imdburl>tvshows/new</imdburl>
-</dir>
-    
