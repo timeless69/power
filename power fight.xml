@@ -4,12 +4,7 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
-<dir>
-        <title>Fighting Movies</title>
-        <tmdb>list/62334</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
+
 <dir>
         <title>Fighting 2 Movies</title>
         <tmdb>list/63115</tmdb>
@@ -28,14 +23,7 @@
     <title>kng fu dir</title>
     <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20kung%20fu.xml</link>
   </dir>
-   
-<dir>
-<title>Crouching Tiger, Hidden Dragon Collection (2000-2016)</title>
-<tmdb>collection/https://www.themoviedb.org/collection/290973-crouching-tiger-hidden-dragon-collectiontmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/zooZQuDBqRpIoDjghEnNoIPFmyc.jpg</thumbnail>
-<fanart></fanart>
-</dir>
- 
+
 <dir>
 <title>Green Street Hooligans Collection</title>
 <tmdb>collection/152544</tmdb>
