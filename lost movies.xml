@@ -54,6 +54,15 @@
   <link>https://raw.githubusercontent.com/timeless69/power/master/Hit%20List.xml</link>
 <thumbnail>http://cdn.wonderfulengineering.com/wp-content/uploads/2013/11/robot-wallpaper-82.jpg</thumbnail>
   </dir>
+<dir>
+<title>EOD Sports Movies</title>
+<tmdb>list/51638</tmdb>
+</dir>
+
+<dir>
+    <title>Women's Sports</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/women%20sports.xml</link>
+</dir>
 
 <dir>
         <title>Racing Movies</title>
