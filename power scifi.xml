@@ -1,0 +1,51 @@
+
+<dir>
+<title>Sci-Fi Movies</title>
+<tmdb>list/44104</tmdb>
+</dir>
+
+<dir>
+<title>Sci-Fi TV Shows</title>
+<tmdb>list/44993</tmdb>
+</dir>
+<dir>
+        <title>Space Movies</title>
+        <tmdb>list/63176</tmdb>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF7tmwqEEXL7RFyfNioc_WeQXaqdInvio_RWljm7cjquUJfIi</thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+<title>Good Science Fiction Flicks</title>
+<tmdb>list/https://www.themoviedb.org/list/3945</tmdb>
+</dir>
+
+<dir>
+<title>Battle Star Collection</title>
+<tmdb>list/45238</tmdb>
+</dir>
+
+<dir>
+<title>Resident Evil Collection</title>
+<tmdb>list/45085</tmdb>
+</dir>
+
+<dir>
+<title>Spider Man Collection</title>
+<tmdb>list/45548</tmdb>
+</dir>
+
+<dir>
+<title>Star Trek Collection</title>
+<tmdb>list/45237</tmdb>
+</dir>
+
+<dir>
+<title>Star Wars Collection</title>
+<tmdb>list/45240</tmdb>
+</dir>
+
+<dir>
+<title>X Men Collection</title>
+<tmdb>list/45236 </tmdb>
+</dir>
