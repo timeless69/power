@@ -4,12 +4,7 @@
       <tmdb>movie/upcoming</tmdb>
       <summary>Shows Trailers For Upcoming Movies</summary>
 </dir>
-  
-<dir>
-  <title>New Release</title>
-  <tmdb>list/50077</tmdb>
-</dir>
-   
+
 <dir>
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>

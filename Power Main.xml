@@ -8,7 +8,12 @@
   <title>TV</title>
   <link>https://raw.githubusercontent.com/timeless69/power/master/lost%20tv.xml</link>
 </dir>
-
+  
+  <dir>
+    <title>movie trialers</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/movie%20trialers.xml</link>
+  </dir>
+ 
   <dir>
     <title>Movies 247</title>
     <link>https://raw.githubusercontent.com/timeless69/power/master/movies247.xml</link>
