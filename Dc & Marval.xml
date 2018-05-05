@@ -1,0 +1,136 @@
+<dir>
+        <title>Dc/Marval</title>
+        <tmdb>list/https://www.themoviedb.org/list/52485</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>Avengers Collection</title>
+<tmdb>collection/86311</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/qJawKUQcIBha507UahUlX0keOT7.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/zuW6fOiusv4X9nnW3paHGfXcSll.jpg</fanart>
+</dir>
+
+<dir>
+<title>Captain America Collection</title>
+<tmdb>collection/131295</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/2tOgiY533JSFp7OrVlkeRJvsZpI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ezEpSQhUQxVKdMx81zaSLsTHv7j.jpg</fanart>
+</dir>
+
+<dir>
+<title>Thor Collection</title>
+<tmdb>collection/131296</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/7vx64r9HS57yz2T53i31SdmqdEi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/FZhEgAes4PX86BJGJPXyZCXHrj.jpg</fanart>
+</dir>
+
+<dir>
+<title>Iron Man Collection</title>
+<tmdb>collection/131292</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/hP7Lxr8V2k2PIZY30QnBYCR9I4q.jpg</fanart>
+</dir>
+
+<dir>
+<title>Justice League Collection (2017-2020)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/468551-justice-league-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman Collection</title>
+<tmdb>collection/120794</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/4AUoqt72CVP4UV902hmdDj4t5Q9.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/tg8azDJ7B53H26utdyWAkm88uZZ.jpg</fanart>
+</dir>
+
+<dir>
+<title>Batman The Dark Knight Collection</title>
+<tmdb>collection/263</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg</fanart>
+</dir>
+
+<dir>
+<title>Fantastic Four Collection</title>
+<tmdb>collection/9744</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/prObnUSCHIBC8ZjkGo2KHgjkWOo.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/3JFe9AWoKuQWox7HO8HKgYRMOF7.jpg</fanart>
+</dir>
+
+<dir>
+<title>Spider-Man Collection</title>
+<tmdb>collection/556</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/iXFRY1cnIfwvWKPQNJnMiDpeBw1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg</fanart>
+</dir>
+  
+<dir>
+<title>The Amazing Spider-Man Collection</title>
+<tmdb>collection/125574</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w640/moNJa86FgDYy8SWeDym2gnsLLMa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aLrNTcLN2kDu9jAJ4tS5haiWGc6.jpg</fanart>
+</dir>
+
+<dir>
+<title>Superman Collection</title>
+<tmdb>collection/8537</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w640/fgTdu62v1jjNDPh68V9TJZMgXbo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Titans Collection</title>
+<tmdb>collection/86780</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/80kN26YcvOUZ2fNRXG69TcUCk06.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/Awy2ye1yJ75ukpDP0qtOx0r7Eng.jpg</fanart>
+</dir>
+
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+<dir>
+<title>Batman: The Dark Knight Returns Collection (2012-2013)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/248534-batman-the-dark-knight-returns-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman Beyond Collection (1999-2000)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/379475-batman-beyond-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman (DC Universe Animated) Collection (1993-2003)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/421904-batman-dc-universe-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman Unlimited Collection (2015-2016)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/356688-batman-unlimited-collection</tmdb>
+</dir>
+
+<dir>
+<title>Superman / Batman (Animated) Collection (2009-2010)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/290933-superman-batman-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Son of Batman Collection (2014-2016)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/334996-son-of-batman-collection</tmdb>
+</dir>
+
+<dir>
+<title>Teen Titans Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/466894-teen-titans-collection</tmdb>
+</dir>
+
+<dir>
+<title>Justice League (Animated) Collection (2008-2017)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/256287-justice-league-animated-collection</tmdb>
+</dir>

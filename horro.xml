@@ -1,0 +1,108 @@
+<dir>
+    <title>Horror Movies</title>
+     <tmdb>list/https://www.themoviedb.org/list/63093</tmdb>
+     <thumbnail></thumbnail>
+     <fanart></fanart>
+</dir>
+
+<dir>
+<title>Horror</title>
+<tmdb>list/44101</tmdb>
+</dir>
+
+<dir>
+    <title>Childs Play</title>
+    <tmdb>list/45031</tmdb>
+</dir>
+
+<dir>
+    <title>Children of the Corn</title>
+    <tmdb>list/45028</tmdb>
+</dir>
+
+<dir>
+    <title>Friday The 13th</title>
+    <tmdb>list/44567</tmdb>
+</dir>
+
+<dir>
+    <title>Hellraiser</title>
+    <tmdb>list/44566</tmdb>
+</dir>
+
+<dir>
+    <title>Nightmare On Elm Street</title>
+    <tmdb>list/44565</tmdb>
+</dir>
+
+<dir>
+    <title>Psycho</title>
+    <tmdb>list/45078</tmdb>
+</dir>
+
+<dir>
+    <title>Paranormal Activity Collection</title>
+    <tmdb>list/45621</tmdb>
+</dir>
+
+<dir>
+    <title>The Exorcist Collection</title>
+    <tmdb>list/45616</tmdb>
+</dir>
+
+<dir>
+    <title>The Omen Collection</title>
+    <tmdb>list/45619</tmdb>
+</dir>
+
+<dir>
+<title>AVP Collection</title>
+<tmdb>collection/115762</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/zrApSsUX9i0qVntcCD0Pp55TdCy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cbAh128RfHTkKDsVsIZZjXwv593.jpg</fanart>
+</dir>
+
+<dir>
+<title>Alien Collection</title>
+<tmdb>collection/8091</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/iVzIeC3PbG9BtDAudpwSNdKAgh6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/52Lhwd7srnktMFDYkfhtMoZdabT.jpg</fanart>
+</dir>
+
+<dir>
+<title>Halloween Collection (1978-2018)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/91361-halloween-collection</tmdb>
+</dir>
+
+<dir>
+<title>Halloween (Rob Zombie Series) Collection (2007-2009)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/126209-halloween-rob-zombie-series-collection</tmdb>
+</dir>
+
+<dir>
+    <title>Halloween</title>
+    <tmdb>list/45026</tmdb>
+</dir>
+
+<dir>
+<title>Insidious Collection (2010-2018)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/228446-insidious-collection</tmdb>
+</dir>
+
+<dir>
+<title>Saw Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/656-saw-collection</tmdb>
+</dir>
+
+<dir>
+<title>The Best Exotic Marigold Hotel Collection</title>
+<tmdb>collection/306937</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/8pMHYwfR8K2xR19RilAuVCyEBT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6rJSC6vA9tfEnAh4RN9ne6cInQL.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Vampire Collection</title>
+    <tmdb>list/45676</tmdb>
+</dir>
+
