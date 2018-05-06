@@ -1,12 +1,20 @@
 <dir>
         <title>Dc/Marval</title>
-        <tmdb>list/https://www.themoviedb.org/list/52485</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/65093</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
 <dir>
-<title>DC</title>
-<link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
+        <title>lego</title>
+        <tmdb>list/https://www.themoviedb.org/list/65094</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>DC/Marvel movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/65096</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 </dir>
 
 <dir>
